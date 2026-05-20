@@ -1,5 +1,6 @@
 {
   "name": "obsidian-community-releases",
+  "packageManager": "bun@1.3.14",
   "scripts": {
     "format": "prettier --write \"**/community*.json\""
   },
